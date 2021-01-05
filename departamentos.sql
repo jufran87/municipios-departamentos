@@ -20,7 +20,7 @@ COMMENT ON COLUMN departamentos.nombre IS 'Nombre del departamento';
 INSERT INTO departamentos (id, codigo, nombre) VALUES (1, '91','AMAZONAS');
 INSERT INTO departamentos (id, codigo, nombre) VALUES (2, '05','ANTIOQUIA');
 INSERT INTO departamentos (id, codigo, nombre) VALUES (3, '81','ARAUCA');
-INSERT INTO departamentos (id, codigo, nombre) VALUES (4, '88','ARCHIPIELAGO DE SAN ANDRES');
+INSERT INTO departamentos (id, codigo, nombre) VALUES (4, '88','ARCHIPIELAGO DE SAN ANDRES, PROVIDENCIA Y SANTA CATALINA');
 INSERT INTO departamentos (id, codigo, nombre) VALUES (5, '08','ATLANTICO');
 INSERT INTO departamentos (id, codigo, nombre) VALUES (6, '11','BOGOTA D.C.');
 INSERT INTO departamentos (id, codigo, nombre) VALUES (7, '13','BOLIVAR');
